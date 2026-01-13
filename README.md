@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor Back-end em formação**, com foco em **Java e Spring Boot**, atuando na construção de **APIs REST escaláveis**, regras de negócio bem definidas e integração com bancos de dados relacionais.
 
-Tenho perfil analítico, foco em boas práticas, código limpo e organização de camadas. Busco minha **oportunidade desenvolvedor júnior**, onde eu possa aprender com times experientes e contribuir com soluções bem estruturadas.
+Tenho perfil analítico, foco em boas práticas, código limpo e organização de camadas.
 
 ---
 
