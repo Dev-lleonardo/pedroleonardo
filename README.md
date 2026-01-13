@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor Back-end em formação**, com foco em **Java e Spring Boot**, atuando na construção de **APIs REST escaláveis**, regras de negócio bem definidas e integração com bancos de dados relacionais.
 
-Tenho perfil analítico, foco em boas práticas, código limpo e organização de camadas. Busco minha **primeira oportunidade como estagiário ou desenvolvedor júnior**, onde eu possa aprender com times experientes e contribuir com soluções bem estruturadas.
+Tenho perfil analítico, foco em boas práticas, código limpo e organização de camadas. Busco minha **primeira oportunidade desenvolvedor júnior**, onde eu possa aprender com times experientes e contribuir com soluções bem estruturadas.
 
 ---
 
@@ -85,116 +85,15 @@ Aplicação desenvolvida em Java com foco em **Programação Orientada a Objetos
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Back-end Estagiário ou Júnior**, contribuindo no desenvolvimento de APIs, regras de negócio e sistemas escaláveis, ao mesmo tempo em que evoluo tecnicamente e profissionalmente.
+Atuar como **Desenvolvedor Back-end Júnior**, contribuindo no desenvolvimento de APIs, regras de negócio e sistemas escaláveis, ao mesmo tempo em que evoluo tecnicamente e profissionalmente.
 
 ---
 
 ## 📬 Contato
 
-* GitHub: *(adicione aqui)*
-* LinkedIn: *(adicione aqui)*
-* E-mail: *(adicione aqui)*
-
----
-
-# 📄 Versão para GitHub README
-
-**Pedro Leonardo – Desenvolvedor Back-end Java**
-
-Desenvolvedor Back-end em formação com foco em Java e Spring Boot. Experiência prática no desenvolvimento de APIs REST, aplicação de boas práticas, organização em camadas e integração com banco de dados relacional.
-
-**Principais competências:**
-
-* Java & Spring Boot
-* APIs REST
-* JPA / Hibernate
-* PostgreSQL
-* Swagger
-* Git & GitHub
-
----
-
-# 💼 Versão para LinkedIn (Sobre)
-
-Sou Desenvolvedor Back-end em formação, com foco em Java e Spring Boot. Tenho experiência prática no desenvolvimento de APIs REST, implementação de regras de negócio, validações e integração com bancos de dados relacionais.
-
-Atualmente busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, com interesse em aprender, evoluir tecnicamente e contribuir com soluções bem estruturadas em ambientes colaborativos.
-
-Tecnologias: Java | Spring Boot | APIs REST | JPA | PostgreSQL | Git
-
----
-
-# 🔖 Headline para LinkedIn (até 220 caracteres)
-
-**Desenvolvedor Back-end Java | Spring Boot | APIs REST | JPA | PostgreSQL | Estudante de ADS em busca de oportunidade como Estagiário ou Júnior**
-
----
-
-# 📘 README – Projeto: API de Gerenciamento de Produtos e Categorias
-
-## 📌 Visão Geral
-
-API REST desenvolvida em Java com Spring Boot simulando um sistema corporativo de gerenciamento de produtos e categorias.
-
-## ⚙️ Funcionalidades
-
-* CRUD de Produtos
-* CRUD de Categorias
-* Validações de dados
-* Tratamento global de exceções
-* Respostas HTTP padronizadas
-* Documentação com Swagger
-
-## 🛠️ Tecnologias Utilizadas
-
-* Java
-* Spring Boot
-* Spring Web
-* Spring Data JPA
-* Hibernate
-* PostgreSQL
-* Swagger / OpenAPI
-
-## 🧱 Arquitetura
-
-* Controller
-* Service
-* Repository
-* DTOs
-
----
-
-# 📘 README – Projeto: Sistema de Gerenciamento de Veículos
-
-## 📌 Visão Geral
-
-Sistema desenvolvido em Java puro para simular o controle interno de veículos, com foco em Programação Orientada a Objetos.
-
-## ⚙️ Funcionalidades
-
-* Cadastro de veículos
-* Listagem e controle
-* Estrutura orientada a objetos
-
-## 🛠️ Conceitos Aplicados
-
-* Encapsulamento
-* Herança
-* Polimorfismo
-* Organização de domínio
-
----
-
-# 🧾 Padrão de Commits (Nível Empresa)
-
-Exemplos de mensagens de commit:
-
-* `feat: adiciona CRUD de produtos`
-* `feat: implementa cadastro de categorias`
-* `fix: corrige validação de categoryId inválido`
-* `refactor: reorganiza camadas service e repository`
-* `docs: adiciona documentação Swagger`
-* `test: adiciona testes de validação`
+* GitHub: *(https://github.com/Dev-lleonardo)*
+* LinkedIn: *(https://www.linkedin.com/in/pedrolleonardo/)*
+* E-mail: *(contatolleonardo.dev@gmail.com)*
 
 ---
 
