@@ -89,6 +89,20 @@ Atuar como **Desenvolvedor Back-end Júnior**, contribuindo no desenvolvimento d
 
 ---
 
+🤝 Soft Skills
+
+* Facilidade de aprendizado e evolução contínua
+
+* Organização e responsabilidade com código e prazos
+
+* Comunicação clara em ambientes técnicos
+
+* Abertura a feedbacks e melhoria contínua
+
+* Comprometimento com qualidade e boas práticas
+
+---
+
 ## 📬 Contato
 
 * GitHub: *(https://github.com/Dev-lleonardo)*
